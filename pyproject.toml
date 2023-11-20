@@ -2,7 +2,7 @@
 name = 'ml_flow_test'
 version = '0.1.0'
 description = 'ML_flow_test'
-authors = ['Andrey Kuznetsov exampel@mail.com']
+authors = ['HeelHook88']
 license = 'none'
 
 [tool.poetry.dependencies]
